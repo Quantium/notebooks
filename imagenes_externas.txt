@@ -1,0 +1,26 @@
+LISTA DE IMÁGENES EXTERNAS EN EL NOTEBOOK
+==========================================
+
+1. Badge de Colab (Celda 0)
+   URL: https://colab.research.google.com/assets/colab-badge.svg
+   Formato: HTML <img> dentro de un enlace
+   Descripción: Badge "Open in Colab"
+
+2. Fichas de Dominó (Celda 49)
+   URL: https://es.calcuworld.com/wp-content/uploads/sites/2/2018/04/cantidad-de-fichas-domino.jpg
+   Formato: Markdown ![alt text](url)
+   Descripción: Fichas de dominó desparramadas sobre una mesa
+   Texto alternativo: "Fichas de dominó desparramadas sobre una mesa"
+
+3. Espiral de Fibonacci (Celda 51)
+   URL: https://childsci.org/wp-content/uploads/2016/04/Fibonacci-Sequence.jpg
+   Formato: HTML <img> (debe convertirse a Markdown)
+   Descripción: Espiral de Fibonacci representando la sucesión
+   Texto alternativo: "Espiral Fibonacci"
+
+==========================================
+TOTAL: 3 imágenes externas
+
+NOTA: La imagen de Fibonacci en la celda 51 todavía está en formato HTML 
+y debería convertirse a formato Markdown para consistencia.
+
